@@ -1,3 +1,6 @@
 [submodule "04-zkapp-browser-ui"]
 	path = 04-zkapp-browser-ui
 	url = https://github.com/thetrung/04-zkapp-browser-ui.git
+[submodule "05-counter"]
+	path = 05-counter
+	url = https://github.com/thetrung/05-counter.git
