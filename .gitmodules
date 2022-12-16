@@ -4,3 +4,6 @@
 [submodule "05-counter"]
 	path = 05-counter
 	url = https://github.com/thetrung/05-counter.git
+[submodule "06-zkLedger"]
+	path = 06-zkLedger
+	url = https://github.com/thetrung/06-zkLedger.git
