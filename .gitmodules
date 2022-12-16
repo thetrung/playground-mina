@@ -7,3 +7,6 @@
 [submodule "06-zkLedger"]
 	path = 06-zkLedger
 	url = https://github.com/thetrung/06-zkLedger.git
+[submodule "sudoku"]
+	path = sudoku
+	url = https://github.com/thetrung/sudoku
